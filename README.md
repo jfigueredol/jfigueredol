@@ -16,7 +16,7 @@ Estudante de Ciência e Tecnologia com ênfase em Engenharia Aeroespacial na **U
 
 ## Vibe coding
 
-Todos os meus produtos são construídos com **vibe coding**: uso o **Claude Code** integrado ao VS Code para ir da ideia ao sistema funcionando, com foco em ferramentas reais para a operação. Também já criei projetos com **Codex** e **Antigravity**, e hoje estou explorando o **Cursor**.
+Todos os meus produtos são construídos com **vibe coding**: uso o **Claude Code** integrado ao VS Code para ir da ideia ao sistema funcionando, com foco em ferramentas reais para a operação. Também já criei projetos com **Codex** e **Antigravity** e **Cursor**.
 
 ## Reconhecimentos
 
